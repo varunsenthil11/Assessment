@@ -5,6 +5,11 @@
 ### Prerequisites
 - Node.js installed on your system.
 
+### Follow this Steps
+- git clone https://github.com/varunsenthil11/Assessment.git
+- open vs code and move to Assessment folder
+- Run npm i in the terminal
+
 ### Steps to Run Node.js Server
 1. Navigate to the project directory.
 2. Run `node server.js`.
